@@ -1,4 +1,5 @@
 ﻿using System;
+using HackerRankProblems.Solutions; 
 
 namespace HackerRankProblems
 {
@@ -6,7 +7,8 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var result = BeatifulDaysAtTheMovies.Resolve(20, 23, 6);
+            Console.WriteLine($"Result: {result}");
         }
     }
 }
