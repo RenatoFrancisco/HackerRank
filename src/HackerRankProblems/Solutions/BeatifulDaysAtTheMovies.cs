@@ -1,7 +1,6 @@
 using System;
-using System.Linq;
 
-namespace HackerRankProblems.Solutions 
+namespace HackerRankProblems.Solutions
 {
     public class BeatifulDaysAtTheMovies 
     {

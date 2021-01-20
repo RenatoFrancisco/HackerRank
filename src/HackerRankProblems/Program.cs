@@ -1,5 +1,5 @@
 ﻿using System;
-using HackerRankProblems.Solutions; 
+using HackerRankProblems.Solutions;
 
 namespace HackerRankProblems
 {
@@ -7,7 +7,7 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = BeatifulDaysAtTheMovies.Resolve(20, 23, 6);
+            var result = FindDigits.Resolve(12);
             Console.WriteLine($"Result: {result}");
         }
     }
