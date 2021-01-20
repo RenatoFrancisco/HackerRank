@@ -7,7 +7,7 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = FindDigits.Resolve(12);
+            var result = ViralAdvertising.Resolve(5);
             Console.WriteLine($"Result: {result}");
         }
     }
