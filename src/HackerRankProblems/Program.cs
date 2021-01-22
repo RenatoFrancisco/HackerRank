@@ -7,7 +7,7 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = AlternatingCharacters.Resolve("AAAA");
+            var result = LonelyInteger.Resolve(new int[] { 0, 2, 1, 2, 1 });
             Console.WriteLine($"Result: {result}");
         }
     }
