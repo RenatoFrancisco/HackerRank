@@ -7,7 +7,7 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = ViralAdvertising.Resolve(5);
+            var result = CamelCase.Resolve("oneTwoThree");
             Console.WriteLine($"Result: {result}");
         }
     }
