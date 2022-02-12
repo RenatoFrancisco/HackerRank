@@ -8,8 +8,8 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = LeftRotation.Resolve(new List<int> { 1, 2, 3, 4, 5 }, 2);
-            result.ForEach(x => Console.Write($"{x} "));
+            var result = MakeAnagram.Resolve("cde", "abc");
+            Console.Write(result);
         }
     }
 }
