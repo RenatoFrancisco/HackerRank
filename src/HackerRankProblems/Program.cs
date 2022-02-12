@@ -8,7 +8,7 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = JumpingClouds.Resolve(new List<int> { 0, 0, 1, 0, 0, 1, 0});
+            var result = Countingvalleys.Resolve(8, "UDDDUDUU");
             Console.Write(result);
         }
     }
