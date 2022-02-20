@@ -1,5 +1,3 @@
-using System;
-
 namespace HackerRankProblems.Solutions
 {
     public class AlternatingCharacters

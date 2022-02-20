@@ -1,5 +1,3 @@
-using System;
-
 public class Countingvalleys
 {
     public static int Resolve(int steps, string path)
