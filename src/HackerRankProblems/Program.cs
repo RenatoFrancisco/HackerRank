@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using HackerRankProblems.Solutions;
 
 namespace HackerRankProblems
 {
@@ -6,8 +8,8 @@ namespace HackerRankProblems
     {
         static void Main(string[] args)
         {
-            var result = Countingvalleys.Resolve(8, "UDDDUDUU");
-            Console.Write(result);
+            BubbleSort.Resolve(new List<int> { 3, 2, 1 });
+            //Console.Write(result);
         }
     }
 }
